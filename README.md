@@ -1,5 +1,5 @@
-[![Travis Build Status](https://travis-ci.org/plus3it/join-domain-formula.svg?branch=master)](https://travis-ci.org/plus3it/join-domain-formula)
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/plus3it/join-domain-formula?branch=master&svg=true)](https://ci.appveyor.com/project/plus3it/join-domain-formula)
+[![Travis Build Status](https://travis-ci.org/MetroStar/join-domain-formula.svg?branch=master)](https://travis-ci.org/MetroStar/join-domain-formula)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/MetroStar/join-domain-formula?branch=master&svg=true)](https://ci.appveyor.com/project/MetroStar/join-domain-formula)
 
 # join-domain-formula
 
